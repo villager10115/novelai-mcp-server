@@ -1,0 +1,15 @@
+{
+  "name": "novelai-mcp-server",
+  "version": "0.2.0",
+  "description": "MCP server for NovelAI using persistent API token (pst-...) authentication",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.0",
+    "zod": "^3.25.0",
+    "jszip": "^3.10.1"
+  }
+}
