@@ -15,6 +15,8 @@
 ```bash
 export NOVELAI_TOKEN=pst-xxxxxxxxxxxxxxxx
 
+（ps：也可以使用set pst-xxxx的方式全局设置）
+
 # 可选：文本接口基础地址
 export NOVELAI_BASE_URL=https://api.novelai.net
 
@@ -27,3 +29,7 @@ export NOVELAI_IMAGE_OUTPUT_DIR=./outputs
 # 可选：如果你的输出目录已经通过静态文件服务或对象存储网关对外暴露，
 # 可以设置一个公共 URL 前缀，让工具返回 public_url
 export NOVELAI_IMAGE_PUBLIC_BASE_URL=https://example.com/images
+
+运行办法：
+run step 1: npm install
+run step 2: npm start
