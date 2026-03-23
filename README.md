@@ -30,6 +30,6 @@ export NOVELAI_IMAGE_OUTPUT_DIR=./outputs
 # 可以设置一个公共 URL 前缀，让工具返回 public_url
 export NOVELAI_IMAGE_PUBLIC_BASE_URL=https://example.com/images
 
-运行办法：
+## 运行办法：
 run step 1: npm install
 run step 2: npm start
