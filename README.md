@@ -32,5 +32,7 @@ export NOVELAI_IMAGE_PUBLIC_BASE_URL=https://example.com/images
 ```
 
 ## 运行办法：
+```node
 run step 1: npm install
 run step 2: npm start
+```
