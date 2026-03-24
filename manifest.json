@@ -1,9 +1,12 @@
 {
-  "name": "novelai-mcp-server",
-  "displayName": "NovelAI MCP Server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "description": "NovelAI MCP server for SillyTavern",
-  "author": "villager10115",
-  "type": "server"
+    "display_name": "NovelAI MCP Server",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "villager10115",
+    "version": "1.0.0",
+    "homePage": "https://github.com/villager10115/novelai-mcp-server",
+    "auto_update": true
 }
