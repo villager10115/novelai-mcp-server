@@ -1,0 +1,8 @@
+{
+  "name": "novelai-mcp-server",
+  "version": "1.0.0",
+  "main": "index.js", 
+  "description": "NovelAI MCP server for SillyTavern",
+  "author": "villager10115",
+  "type": "server"
+}
