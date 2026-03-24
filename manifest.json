@@ -1,8 +1,8 @@
 {
-  "name": "novelai-mcp-server",          // 内部标识
-  "displayName": "NovelAI MCP Server",   // UI 显示名称
+  "name": "novelai-mcp-server",
+  "displayName": "NovelAI MCP Server",
   "version": "1.0.0",
-  "main": "index.js",                     // 入口文件
+  "main": "index.js",
   "description": "NovelAI MCP server for SillyTavern",
   "author": "villager10115",
   "type": "server"
